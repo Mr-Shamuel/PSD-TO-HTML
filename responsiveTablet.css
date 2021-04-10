@@ -1,0 +1,24 @@
+
+@media only screen and (min-width:550px) and (max-width:991px)
+{
+    
+.banner-title { margin-top: 20px;padding: 0px; width: 30%;float: left;}
+.img-fluid { height: auto;}
+.col-12 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 50%;text-align: center;}
+.banner-title h1{font-size: 45px;}
+.services {margin-top: 20px;}
+.services h2 {padding: 18px 0px;font-size: 26px;text-align: center;}
+.services p {font-size: 14px;color: #878787;text-align: left;}
+.banner-title p {
+    font-size: 14px;
+    padding: 0px 5px;
+}
+
+}
+
+@media only screen and (max-width:1200px){
+    .banner-title {
+        margin-top: 20px;
+        padding: 30px;
+    }
+}
