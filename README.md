@@ -1,12 +1,3 @@
 # PSD-to-HTML-project
-# PSD-to-HTML-Project-full-responsive-
-# PSD-to-HTML-Project-full-responsive-
-# PSD-to-HTML-Project-full-responsive-
-# PSD-to-HTML-Project-full-responsive-
-# psd
-# sam
-# ns
-# rs
-# tt
-# tt
-# tt
+# live server: https://mr-shamuel.github.io/PSD-TO-HTML/
+# 
